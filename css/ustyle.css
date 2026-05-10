@@ -1,0 +1,56 @@
+.sec_product .sec_content {
+  max-width: 90rem;
+}
+.sec_product .flex {
+  margin-top: 30px;
+}
+.sec_product .flex .cols {
+  width: 20%;
+  text-align: center;
+}
+.sec_product .flex .cols .img_icon {
+  margin: 0 auto;
+  width: 65px;
+  height: 65px;
+  border-radius: 100%;
+  background: #1b75bc;
+  margin-bottom: 10px;
+  padding: 15px;
+}
+.sec_product .flex .cols .img_icon img {
+  filter: brightness(0) invert(1);
+  -webkit-filter: brightness(0) invert(1);
+}
+.sec_product .products {
+  margin-top: 40px;
+}
+.sec_product .products .product_sec .col {
+  width: 50% !important;
+}
+.sec_product .products .product_sec .col .inner {
+  border: 1px solid rgba(27, 117, 188, 0.14);
+  box-shadow: 0 0.7rem 3.5rem -0.5rem rgba(24, 24, 24, 0.1), 0 -0.5rem 1rem -0.6rem rgba(24, 24, 24, 0.1);
+}
+.sec_product .products .product_sec .col .inner .block {
+  display: flex;
+}
+.sec_product .products .product_sec .col .inner .block .image {
+  width: 56%;
+}
+.sec_product .products .product_sec .col .inner .block .txt {
+  padding-left: 10px !important;
+}
+.sec_product .products .product_sec .col .inner .block .txt ul {
+  padding-left: 0;
+}
+.sec_product .products .product_sec .col .inner .block .txt ul li {
+  list-style: none;
+  padding-bottom: 8px;
+}
+.sec_product .products .product_sec .col .inner .block .txt ul li p {
+  margin-bottom: 3px;
+  font-size: 1.2rem;
+}
+.sec_product .products .product_sec .col .inner .block .txt ul li h6 {
+  margin-bottom: 0px;
+}/*# sourceMappingURL=ustyle.css.map */
